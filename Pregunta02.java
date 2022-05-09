@@ -10,6 +10,7 @@ public class Separar {
      int segundo;
      int primero;   
      System.out.print("Escribe un numero de 5 digitos: \n" );
+//pedimos el numero de 5 digitos
         numero = teclear.nextInt();
         quinto = numero%10;
         numero = numero/10;
